@@ -4,3 +4,5 @@ langchain_community
 langchain_ollama
 selenium
 unstructured
+faiss-gpu
+
