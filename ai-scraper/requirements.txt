@@ -1,8 +1,11 @@
+fastapi
+uvicorn
+pydantic
 streamlit
-langchain_core
-langchain_community
-langchain_ollama
+langchain-core
+langchain-community
+langchain-ollama
 selenium
 unstructured
-faiss-gpu
+faiss-cpu
 
